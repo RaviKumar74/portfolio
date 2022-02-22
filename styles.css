@@ -176,7 +176,7 @@ span{
 }
 .line{
     width: 34px;
-    background-color: black;
+    background-color: rgb(110, 91, 91);
     height: 4px;
     margin:3px 3px;
 } 
